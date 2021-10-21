@@ -1,0 +1,37 @@
+{
+  "data": {
+    "myClasses": {
+      "Monday": {},
+      "Tuesday": {},
+      "Wednesday": {
+        "second": "https://meet.google.com/rax-ozng-ndo",
+        "third": "https://ed24lb.osaka-sandai.ac.jp/webclass/loadit.php?action=redirect&file=https%3A%2F%2Fmeet.google.com%2Fgco-ornc-kwo&user_id=0683812b411122da31cca60d81e545f7&course_id=C2133200018761&contents_id=ff7f09c5882d3edb4065dd526e932a01",
+        "fourth": "https://meet.google.com/mph-trdb-ziy"
+      },
+      "Thursday": {
+        "first": "https://ed24lb.osaka-sandai.ac.jp/webclass/loadit.php?action=redirect&file=https%3A%2F%2Fmeet.google.com%2Fiwg-xrtm-myw&user_id=0683812b411122da31cca60d81e545f7&course_id=C2141201104361&contents_id=ceab9c0a52be4ee4c019ca34fcfb49e0",
+        "third": "https://ed24lb.osaka-sandai.ac.jp/webclass/loadit.php?action=redirect&file=https%3A%2F%2Fmeet.google.com%2Ffgm-oevs-pmp&user_id=0683812b411122da31cca60d81e545f7&course_id=C2143201101381&contents_id=ba467d55f2ddf6b5e8e6e720e470c368",
+        "fourth": "https://ed24lb.osaka-sandai.ac.jp/webclass/loadit.php?action=redirect&file=https%3A%2F%2Fmeet.google.com%2Fvrw-kqks-vod&user_id=0683812b411122da31cca60d81e545f7&course_id=C2144200060961&contents_id=c6ed664d2028028d07c51e29ecef6fd4"
+      },
+      "Friday": {
+        "first": "https://ed24lb.osaka-sandai.ac.jp/webclass/loadit.php?action=redirect&file=https%3A%2F%2Fmeet.google.com%2Faxs-ptre-sau&user_id=0683812b411122da31cca60d81e545f7&course_id=C2151200028781&contents_id=a40d2e10e03c9578a95a75fb05fd647a",
+        "second": "https://ed24lb.osaka-sandai.ac.jp/webclass/loadit.php?action=redirect&file=https%3A%2F%2Fmeet.google.com%2Fpqf-izju-dhp&user_id=0683812b411122da31cca60d81e545f7&course_id=C2152201103551&contents_id=04dceb0604ebbaca9541860d768a0534",
+        "third": "https://meet.google.com/ymh-efxd-owt",
+        "fourth": "https://meet.google.com/apg-ikmn-gvg",
+        "fifth": ""
+      },
+      "Saturday": {},
+      "Sunday": {}
+    },
+    "meetLinks": {},
+    "class_time": {
+      "first": "09:00",
+      "second": "10:40",
+      "third": "12:50",
+      "fourth": "14:30",
+      "fifth": "16:10",
+      "sixth": "17:50",
+      "seventh": "19:30"
+    }
+  }
+}
