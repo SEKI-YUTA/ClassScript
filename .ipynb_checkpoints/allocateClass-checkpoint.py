@@ -1,6 +1,5 @@
 import json
 import datetime
-from os import replace
 import sys
 from main import meetAutomation
 
@@ -81,7 +80,6 @@ def nextClass(classTimes,todayClasses,now):
         
 
 now_dt = datetime.datetime.now()
-now_dt = now_dt.replace(day=6)
 dayOfweek = now_dt.strftime("%A")
 print(f'today:{dayOfweek}')
 
